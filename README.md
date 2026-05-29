@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on learning Version Control using Github
 - 🌱 I’m currently learning networking, cybersecurity, and web development.
-- 👯 I’m looking to collaborate on something that'll help me learn the basics of github.
+- 👯 I’m looking to collaborate on something useful.
 
