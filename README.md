@@ -4,17 +4,18 @@ Computer Science graduate (B.S. & A.S.) based in Harlingen, TX, focused on IT
 support, networking, and cybersecurity. I like troubleshooting systems,
 building PCs, working with Linux, and shipping small projects end-to-end.
 
-- Open to IT support, help desk, network technician, and junior cybersecurity roles
-- Currently building on networking, cybersecurity, and web development skills
+- Open to entry-level IT, system administration, software development, and cybersecurity roles
+- CompTIA A+ Certified · Network+ in progress
 - Portfolio: [drakeev.github.io](https://drakeev.github.io/)
 - Contact: drakeeeverett@gmail.com · [LinkedIn](https://www.linkedin.com/in/drake-everett)
 
 ## Skills
 
-- **IT Support** — Windows troubleshooting, hardware diagnostics, PC building, user support
+- **IT Support** — Windows troubleshooting, hardware diagnostics, PC building, ticketing & remote support
 - **Networking** — TCP/IP, DNS/DHCP/NAT, Wireshark, basic routing
-- **Cybersecurity** — Linux firewall labs, packet analysis, security fundamentals, CompTIA A+ cert path
-- **Development** — HTML/CSS/JS, Python, C++, Git/GitHub
+- **System Administration** — Active Directory, VMware virtualization, databases, documentation & asset tracking
+- **Cybersecurity** — Linux firewall labs, packet analysis, security fundamentals
+- **Development** — HTML/CSS/JS, Java, Python, C++, Git/GitHub
 
 ## Featured Projects
 
